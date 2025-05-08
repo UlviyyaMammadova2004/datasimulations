@@ -1,0 +1,12 @@
+# Certificates and secrets
+certs/
+*.pem
+*.key
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
